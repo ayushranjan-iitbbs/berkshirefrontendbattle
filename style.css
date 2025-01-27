@@ -375,3 +375,11 @@ a{
         justify-content: center;
         margin-top:29px;
     }
+    .note{
+        font-family: "Signika", serif;
+         margin-top:20px;
+         margin-left:30px;
+         color:white;
+         -webkit-text-stroke: 0.2px #333;
+    }
+    
